@@ -1,6 +1,6 @@
 # EFI Directory
 
-## Working EFI/config.plist for the following configuration:
+Working EFI/config.plist for the following configuration
 
 - **Motherboard** AsRock z390 Phantom Gaming 4S
 - **CPU** Intel Core i5-9600K
